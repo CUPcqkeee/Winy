@@ -1,0 +1,28 @@
+{
+  "Emojis": {
+    "success": "<a:Yes_Check:877264845504917565>",
+    "not_success": "<a:No_Check:877264845366517770>",
+    "load": "<a:loops:898905497820880926>",
+    "load_v2": "<a:waiting:1011657420860293180>",
+    "dot": "<:ddddd:1191556735433977976>",
+    "online": "<:online:892647180614123540>"
+  },
+  "BD": {
+    "User": "Winy",
+    "Password": "WINYSDF9*#DF=-ZHG0-FSBH#*&6F7SBVjn#__8SB7*$rufHG87aes^R7",
+    "Host": "192.168.8.16",
+    "Database_Name": "DiscordBots"
+  },
+  "Guild": {
+    "Ranks": {
+      "1": "Магистр",
+      "2": "Верховный советник",
+      "3": "Мудрец",
+      "4": "Друид",
+      "5": "Участник"
+    },
+    "Economy": {
+      "currency": "<:panda_coin:1190791710343700500>"
+    }
+  }
+}
