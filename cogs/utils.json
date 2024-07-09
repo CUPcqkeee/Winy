@@ -9,8 +9,8 @@
   },
   "BD": {
     "User": "Winy",
-    "Password": "WINYSDF9*#DF=-ZHG0-FSBH#*&6F7SBVjn#__8SB7*$rufHG87aes^R7",
-    "Host": "192.168.8.16",
+    "Password": "PASSWORD",
+    "Host": "IP",
     "Database_Name": "DiscordBots"
   },
   "Guild": {
